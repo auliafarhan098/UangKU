@@ -1,0 +1,6 @@
+{
+  "name": "UangKu",
+  "description": "A secure personal finance assistant for students and professionals. Features automatic local SMS bank integration, custom Material 3 dynamic charts, automated AI budgeting recommendations via Gemini, end-to-end local data encryption, bill alerts, calculator, and Cloud sync via Firebase Realtime Database REST CRUD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
